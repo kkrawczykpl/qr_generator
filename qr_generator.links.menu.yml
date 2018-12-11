@@ -1,0 +1,5 @@
+qr_generator.main:
+  title: QR Code Generator
+  description: 'Generate QR Code for given node ID'
+  route_name: qr_generator.main
+  parent: system.admin_config_content

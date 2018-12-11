@@ -1,0 +1,16 @@
+{
+    "name": "kkrawczyk/qr_generator",
+    "description": "QR Code Generator",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Krzysztof Krawczyk",
+            "email": "krzysztof@kkrawczyk.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "endroid/qr-code": "^3.0@dev"
+    }
+}

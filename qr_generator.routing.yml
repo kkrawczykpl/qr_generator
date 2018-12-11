@@ -1,0 +1,8 @@
+qr_generator.main:
+  path: 'admin/config/content/qr_generator'
+  defaults:
+    _form: '\Drupal\qr_generator\Form\QRGeneratorForm'
+    _title: 'QR Code Generator'
+    _description: 'Generate QR Code linking to your nodes.'
+  requirements:
+    _permission: 'access administration pages'

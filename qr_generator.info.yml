@@ -1,0 +1,4 @@
+name: 'QR Generator'
+description: 'QR Code Generator'
+type: module
+core: 8.x
