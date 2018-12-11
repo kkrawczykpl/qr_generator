@@ -12,6 +12,9 @@ Tested on Drupal 8.6.2
  * 1.Go to <your_domain>/admin/config/content/qr_generator or Admin settings -> Content -> QR Code Generator
  * 2.Type ID of Node
  * 3.Download image or save URL.
+ 
+## TROUBLESHOOTING
+If there is problem with generating QR Code, website throw a small rectangle - Check if directory /sites/default/files/pictures/qr_codes exists. If not - create it.
 
 ## AUTHOR
 Module was created by Krzyszotf Krawczyk for Google Code-In 2018
